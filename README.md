@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ezra Dbest</h1>
-<h3 align="center">A Data Scientist, UI/UX Designer and a Fullstack Developer</h3>
+<h3 align="center">A Data Scientist, UI/UX Designer and a Fullstack Mobile & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbest-ezra&label=Profile%20views&color=0e75b6&style=flat" alt="dbest-ezra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbest-ezra" alt="dbest-ezra" /></a> </p>
 
-- 💬 Ask me about **Data science, Cross platform mobile app Development**
+- 💬 Ask me about **Data science, Cross platform mobile app Development & Web Development**
 
 - 📫 How to reach me **dr.ezraofficial@gmail.com**
 
